@@ -1,7 +1,7 @@
 ### Reusables net mvc
 This project contains reusable codes that can be reused in different projects using asp.net mvc as the base platform. 
  
-### Example Projects in this repository
+### Example Projects in this repository 
 1. Single Sign On example using Cookies (Bare example)
 2. Coravel Cache implementation
 3. SSO using LDAP (Ongoing)
