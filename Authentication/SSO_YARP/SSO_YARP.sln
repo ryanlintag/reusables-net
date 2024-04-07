@@ -3,11 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.9.34622.214
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Web", "Web\Web.csproj", "{3D51ACA2-452A-488D-8555-6BAFFDAFC9F6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Web", "Web\Web.csproj", "{3D51ACA2-452A-488D-8555-6BAFFDAFC9F6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Api1", "Api1\Api1.csproj", "{DA37095D-463E-44D9-B7B3-D350A032E6E8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Api1", "Api1\Api1.csproj", "{DA37095D-463E-44D9-B7B3-D350A032E6E8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Api2", "Api2\Api2.csproj", "{C5BD3A87-DF4B-4149-85C6-D05118B27550}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Api2", "Api2\Api2.csproj", "{C5BD3A87-DF4B-4149-85C6-D05118B27550}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Helpers", "Helpers\Helpers.csproj", "{D5D8EB7D-4DB8-4280-A2BB-8CE01A8B00CC}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -27,6 +29,10 @@ Global
 		{C5BD3A87-DF4B-4149-85C6-D05118B27550}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C5BD3A87-DF4B-4149-85C6-D05118B27550}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C5BD3A87-DF4B-4149-85C6-D05118B27550}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D5D8EB7D-4DB8-4280-A2BB-8CE01A8B00CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D5D8EB7D-4DB8-4280-A2BB-8CE01A8B00CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D5D8EB7D-4DB8-4280-A2BB-8CE01A8B00CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D5D8EB7D-4DB8-4280-A2BB-8CE01A8B00CC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
